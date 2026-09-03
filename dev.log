@@ -1,0 +1,555 @@
+
+> simple-queueing-system@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m358[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.127.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.231.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.183:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m1:44:17 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:44:21 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:44:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:44:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:44:34 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:44:47 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:46:21 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:46:34 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:46:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:46:53 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:46:57 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:47:04 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:47:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:47:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:47:43 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:52:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:52:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:52:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:52:22 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:53:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:53:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:54:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:54:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m1:56:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:56:15 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:56:19 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m1:59:13 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx, /QueueCashierPanel.jsx[22m
+[2m2:00:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx, /QueueCashierPanel.jsx[22m
+[2m2:03:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:03:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:03:41 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:03:45 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:03:46 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:03:46 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:03:48 PM[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[39m             [33m>[39m
+ [90m 331 |[39m               [33mRecall[39m (flash on screen)
+[31m[1m>[22m[39m[90m 332 |[39m             [33m<[39m[33m/[39m[33mbutton[39m[33m>[39m
+ [90m     |[39m             [31m[1m^[22m[39m
+ [90m 333 |[39m
+ [90m 334 |[39m             [33m<[39m[33mbutton[39m
+ [90m 335 |[39m               onClick[33m=[39m{previousNumber}[0m
+[2m2:03:49 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:03:56 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:03:56 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:03:56 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:03:56 PM[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[39m             [33m>[39m
+ [90m 331 |[39m               [33mRecall[39m (flash on screen)
+[31m[1m>[22m[39m[90m 332 |[39m             [33m<[39m[33m/[39m[33mbutton[39m[33m>[39m
+ [90m     |[39m             [31m[1m^[22m[39m
+ [90m 333 |[39m
+ [90m 334 |[39m             [33m<[39m[33mbutton[39m
+ [90m 335 |[39m               onClick[33m=[39m{previousNumber}[0m
+[2m2:03:56 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:04:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:04:01 PM[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[39m             [33m>[39m
+ [90m 331 |[39m               [33mRecall[39m (flash on screen)
+[31m[1m>[22m[39m[90m 332 |[39m             [33m<[39m[33m/[39m[33mbutton[39m[33m>[39m
+ [90m     |[39m             [31m[1m^[22m[39m
+ [90m 333 |[39m
+ [90m 334 |[39m             [33m<[39m[33mbutton[39m
+ [90m 335 |[39m               onClick[33m=[39m{previousNumber}[0m
+[2m2:04:07 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\PROGRAMMER\Desktop\simple qeueing system\QueueCashierPanel.jsx: Expected corresponding JSX closing tag for <div>. (332:12)
+
+[0m [90m 330 |[31m             [33m>[31m
+ [90m 331 |[31m               [33mRecall[31m (flash on screen)
+[31m[1m>[22m[31m[90m 332 |[31m             [33m<[31m[33m/[31m[33mbutton[31m[33m>[31m
+ [90m     |[31m             [31m[1m^[22m[31m
+ [90m 333 |[31m
+ [90m 334 |[31m             [33m<[31m[33mbutton[31m
+ [90m 335 |[31m               onClick[33m=[31m{previousNumber}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/PROGRAMMER/Desktop/simple qeueing system/QueueCashierPanel.jsx[39m:332:12
+[33m  330|              >
+  331|                Recall (flash on screen)
+  332|              </button>
+     |              ^
+  333|  
+  334|              <button[39m
+      at constructor (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:6620:19)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4743:16)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11357:23)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4780:20)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10914:29)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10906:17)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at JSXParserMixin.parseExpressionBase (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10801:17)
+      at JSXParserMixin.jsxParseExpressionContainer (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4648:31)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4727:36)
+      at JSXParserMixin.jsxParseElementAt (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4714:32)
+      at JSXParserMixin.jsxParseElement (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4765:17)
+      at JSXParserMixin.parseExprAtom (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:4775:19)
+      at JSXParserMixin.parseExprSubscripts (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11102:23)
+      at JSXParserMixin.parseUpdate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11087:21)
+      at JSXParserMixin.parseMaybeUnary (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11067:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10920:61)
+      at JSXParserMixin.parseExprOps (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10925:23)
+      at JSXParserMixin.parseMaybeConditional (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10902:23)
+      at JSXParserMixin.parseMaybeAssign (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:39
+      at JSXParserMixin.allowInAnd (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12455:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:10821:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:12522:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\Users\PROGRAMMER\Desktop\simple qeueing system\node_modules\@babel\parser\lib\index.js:11701:28)
+[2m2:04:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:04:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:04:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:04:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:05:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:06:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:07:56 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:08:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:12:39 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueCashierPanel.jsx[22m
+[2m2:15:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/QueueTVDisplay.jsx[22m
+[2m2:16:01 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:17:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:17:13 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
